@@ -1,1 +1,2 @@
-# sophomore.stuysu.org
+# SC
+Official Sophomore Caucus Page
